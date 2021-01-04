@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
-  m_Name: A0
+  m_Name: A0.3 State
   m_EditorClassIdentifier: 
   storyText: 'As Ben finally open his eyes, he stared at the ceiling for he cannot
     be believe that he is alive.
