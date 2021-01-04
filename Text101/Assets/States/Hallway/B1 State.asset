@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
-  m_Name: Room2
+  m_Name: B1 State
   m_EditorClassIdentifier: 
-  storyText: 'Ben went room 2
+  storyText: 'Ben fight.
 
-'
+
+    Press 1 to continue . . .'
   nextStates:
-  - {fileID: 11400000, guid: 8216a9c646556d14d945ff5d8f539457, type: 2}
-  - {fileID: 11400000, guid: ee744ec094af22d49b16603991bee65d, type: 2}
+  - {fileID: 11400000, guid: 24ace2f83ba47ed489797da2220a661c, type: 2}

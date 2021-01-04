@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
+  m_Name: A0
+  m_EditorClassIdentifier: 
+  storyText: 'As Ben finally open his eyes, he stared at the ceiling for he cannot
+    be believe that he is alive.
+
+    
+
+    "What should I do?"
+
+    
+
+    [1]
+    Try to stand.
+
+    
+
+    [2] Observe the surroundings.'
+  nextStates:
+  - {fileID: 11400000, guid: 1f027ca2474527b4c8f8fbe876bf2d20, type: 2}
+  - {fileID: 11400000, guid: e38376f2832adda4cbba999e2ca306b3, type: 2}

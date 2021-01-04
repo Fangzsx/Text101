@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
+  m_Name: A1 State
+  m_EditorClassIdentifier: 
+  storyText: "Ben removed the medical tubes connected to him. He gathered all his
+    strength to stand up. After several tries, he managed to get up. He nearly stumble
+    as he make his way to open the door.\r\n\"Where is everyone?\"\r\nHospital is
+    supposed to be full of people.\r\n\"Something is not right here.\"\r\n\r\nAs
+    he entered the area near the hallway, he was surprised.\r\nBloods are splattered
+    everywhere. Equipment are torn up. \r\n\r\n\"There's someone right there!\"\r\nThe
+    persons back was turned to his direction.\r\nWhat should Ben do?\r\n\r\n[1] Approach
+    the person\r\n[2] Go back to room and Sleep again."
+  nextStates:
+  - {fileID: 11400000, guid: 42ab52264596ff24cb7703e63f6c2939, type: 2}
+  - {fileID: 11400000, guid: 570c74e99de674b4b87b0d353828f7ad, type: 2}

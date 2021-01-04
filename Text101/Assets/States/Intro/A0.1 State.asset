@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
+  m_Name: A0
+  m_EditorClassIdentifier: 
+  storyText: "Gunfires. Explosions. Sounds of rotary engines. Seeing Ben's falling
+    comrades one by one realized that this is already defeat. It never struck to
+    him that this day will come. \r\n\r\nThe day that he feared the most.\r\n\r\nSuddenly,
+    Ben heard a very large noise and all things went bright.\r\n\r\nBen's witnessed
+    himself as his consciousness started to fade.\r\n\r\nAll went black.\r\n\r\n\"So
+    this death.\" He uttered to himself.\n\nPress 1 to Continue . . ."
+  nextStates:
+  - {fileID: 11400000, guid: 4e91d1436f289b846a7de7f2b54e0cf3, type: 2}

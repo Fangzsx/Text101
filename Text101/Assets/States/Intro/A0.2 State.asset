@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
+  m_Name: A0
+  m_EditorClassIdentifier: 
+  storyText: 'Silence has existed ever since then. Ben has been put to eternal void.
+    1 year? 2 years? 5 years? Time no longer exist. All he know was darkness. Noise.
+    He heard a noise. He can''t believe himself. Screams everywhere. Sound of falling
+    body. Growling.
+
+    "What is happening?"
+
+    He saw a light. It started dim.
+    Now is started to scatter throughout the eternal darkness.
+
+
+    Ben finally
+    woke up.
+
+
+    Press 1 to Continue . . .
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 570c74e99de674b4b87b0d353828f7ad, type: 2}

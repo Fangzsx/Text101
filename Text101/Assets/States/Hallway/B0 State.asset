@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd0a79ff48915247be986b1e23af85f, type: 3}
+  m_Name: B0 State
+  m_EditorClassIdentifier: 
+  storyText: '"That person might be able to answer my questions."
+
+    As he approached
+    the person, the stench of the smell of blood and human flesh ies becoming stronger.
+
+    
+
+    Ben
+    tap the shoulder of the person to get his attention.
+
+    "Excuse me sir. What
+    happened in here?"
+
+    
+
+    The person immidiately turn body towards him
+    and Ben was surprised.
+
+    "Wh-what  aa-are y-you?"
+
+    The person''s face
+    was rotting and some of his flesh are hanging.
+
+    Ben must decide what he
+    would do.
+
+    
+
+    [1] Fight.
+
+    [2] Run.'
+  nextStates:
+  - {fileID: 11400000, guid: 3868e52b3e93a254ea3528955e6d427a, type: 2}
+  - {fileID: 11400000, guid: 52b6d5525ad467146ba5a1166c2e3e89, type: 2}
